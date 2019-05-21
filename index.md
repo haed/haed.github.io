@@ -2,6 +2,7 @@
 
 - [eventer](https://console.eventer.app) - Die Plattform für Veranstaltungsmanagement in Mittelsachsen
 - [eventer.app](https://eventer.app) - Deine App für alle Veranstaltungen in Mittelsachsen
+- [eventer.api](https://github.com/haed/eventer-web-api) - freie Web-API für Veranstaltungen
  
 ### Kontakt
 

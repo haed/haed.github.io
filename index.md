@@ -1,4 +1,4 @@
-#### Projekte
+### Projekte
 
 - [eventer](https://console.eventer.app) - Die Plattform für Veranstaltungsmanagement in Mittelsachsen
 - [eventer.app](https://eventer.app) - Deine App für alle Veranstaltungen in Mittelsachsen

@@ -6,6 +6,7 @@
  
 ### Kontakt
 
+Stein IT<br/>
 Danilo Stein<br/>
 Heinrich-Beck-Str. 64<br/>
 09112 Chemnitz<br/>

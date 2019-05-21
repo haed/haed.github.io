@@ -1,44 +1,17 @@
-## Welcome to GitHub Pages
+### Projekte
 
-You can use the [editor on GitHub](https://github.com/haed/haed.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Eventer Plattform
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[https://console.eventer.app] . 
 
-### Markdown
+Die Plattform für Veranstaltungsmanagement in Mittelsachsen.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Kontakt
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haed/haed.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Impressum
-
-Danilo Stein
-Heinrich-Beck-Str. 64
-09112 Chemnitz
-
-USt-IdNr.: DE247977210
-
-E-Mail: [kontakt@eventer.app]
-Telefon: +49 173 8291678
+Danilo Stein . 
+Heinrich-Beck-Str. 64 . 
+09112 Chemnitz . 
+  
+[danilo@eventer.app] / +49 173 8291678 . 
+  
+(USt-IdNr.: DE247977210) . 
